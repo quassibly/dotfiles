@@ -40,4 +40,4 @@ export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bi
 
 #Pure Prompt
 autoload -U promptinit; promptinit
-prompt pure
+prompt pureexport BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
